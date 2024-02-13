@@ -1,12 +1,4 @@
-# WalkeyDoggy
-> Walk the dog and capture some treats! 
-
-GBA game made with GB Studio. You need node.js to run the server locally and preview the game with the *binji's Game Boy emulator* on the browser.
-
-`npm install`
-`npm start`
-
-## binjgb
+# binjgb
 
 Fork of binji's Game Boy emulator built as a WebAssembly module.
 
